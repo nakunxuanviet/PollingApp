@@ -1,2 +1,5 @@
-# PollingApp
-Polls app using Spring Boot, Spring Data JPA
+## Polling Application
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- PostgreSQL 13
