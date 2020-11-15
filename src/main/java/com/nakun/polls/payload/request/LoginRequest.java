@@ -1,4 +1,4 @@
-package com.nakun.polls.payload;
+package com.nakun.polls.payload.request;
 
 import javax.validation.constraints.NotBlank;
 

@@ -1,4 +1,4 @@
-package com.nakun.polls.payload;
+package com.nakun.polls.payload.response;
 
 public class JwtAuthenticationResponse {
     private String accessToken;
